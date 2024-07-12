@@ -1,8 +1,8 @@
 :root {
   /* colours */
-  --background-color: white;
-  --text-color: black;
-  --header-color: black;
+  --background-color: rgb(255, 255, 255);
+  --text-color: rgb(243, 237, 237);
+  --header-color: rgb(82, 207, 24);
 
   /* typography */
   --font: serif;
